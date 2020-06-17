@@ -10,5 +10,6 @@ end
 
 def parrot_one
   return "Pretty Bird!"
+  return "hello"
 end
 
