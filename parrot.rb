@@ -4,3 +4,5 @@ def parrot
   puts "Squawk!"
   return "Squawk!"
 end
+
+def parrot (the_thing_parrots_say = "Pretty Bird
