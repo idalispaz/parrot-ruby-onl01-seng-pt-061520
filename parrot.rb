@@ -5,4 +5,4 @@ def parrot
   return "Squawk!"
 end
 
-def parrot (the_thing_parrot_says = "Pretty Bird
+def parrot (the_thing_parrot_says = "Pretty Bird")
