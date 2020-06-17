@@ -5,5 +5,7 @@ def parrot
   return "Squawk!"
 end
 
-def parrot (the_thing_parrot_says_
+def parrot (the_thing_parrot_says)
   puts the_thing_parrot_says
+  return "Squawk!"
+end
