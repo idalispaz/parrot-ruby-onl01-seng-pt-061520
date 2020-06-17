@@ -8,7 +8,4 @@ def parrot (phrase = "Squawk!")
   return phrase
 end
 
-def parrot_one ("Squawk!")
-  return "Squawk!"
-end
 
